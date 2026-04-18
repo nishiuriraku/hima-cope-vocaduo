@@ -1,6 +1,6 @@
-const title = 'ひまわりコッペパン';
-const description = '';
-const url = 'https://hima-cope-vocaduo.netlfy.app/';
+const title = 'HIMAWARI KOPPEPAN - VOCADUO 2026';
+const description = 'Team Introduction for HIMAWARI KOPPEPAN - VOCADUO 2026';
+const url = 'https://hima-cope-vocaduo.netlify.app/';
 const ogp = url + '/ogp.png';
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
